@@ -17,9 +17,9 @@
 <h3>Open Here</h3>
 
 <p>
-    <a href="./notes/en.ipynb"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8Read--in-English-black?style=for-the-badge&label=%F0%9F%87%BA%F0%9F%87%B8%20Read%20in&labelColor=black&color=white"></a>
+    <a href="https://mybinder.org/v2/gh/sb0t/polic/main?urlpath=%2Fdoc%2Ftree%2Fnotes%2Fen.ipynb"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8Read--in-English-black?style=for-the-badge&label=%F0%9F%87%BA%F0%9F%87%B8%20Read%20in&labelColor=black&color=white"></a>
     &nbsp;
-    <a href="./notes/it.ipynb"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9Leggi--in-Italiano-black?style=for-the-badge&label=%F0%9F%87%AE%F0%9F%87%B9%20Leggi%20in&labelColor=black&color=white"></a>
+    <a href="https://mybinder.org/v2/gh/sb0t/polic/main?urlpath=%2Fdoc%2Ftree%2Fnotes%2Fit.ipynb"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9Leggi--in-Italiano-black?style=for-the-badge&label=%F0%9F%87%AE%F0%9F%87%B9%20Leggi%20in&labelColor=black&color=white"></a>
 
 </p>
 
