@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Project Logo" src="logo.png" width="250px">
+<img alt="Project Logo" src="logo.png" width="200px">
 
 <h3>Interactive C Notes</h3>
 
